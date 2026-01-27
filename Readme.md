@@ -1,3 +1,6 @@
-<h1>Hey, hi, what's up engineers?</h1>
-<h5>I am working at a small startup. They use an isolated working environment and they don't use Git or GitHub.</h5>
+<h1>Hello engineers,</h1>
+<h5>
+  I work at a small startup that uses an isolated working environment and does not use Git or GitHub.
+</h5>
+
 
